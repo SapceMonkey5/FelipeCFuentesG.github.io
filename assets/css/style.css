@@ -1,6 +1,9 @@
-body {
-    background-color: black;
-}
 header img{
     width: 350px;
+}
+header h1{
+    color: #6c757d;
+}
+.nav1 i{
+    font-size: 2rem;
 }
